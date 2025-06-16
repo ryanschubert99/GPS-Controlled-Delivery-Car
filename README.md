@@ -17,7 +17,7 @@ everyday scenarios.
 Project Report: 
 Senior Design Report (Final).pdf
 ## 📄 Report
-[Final Report Download][https://github.com/ryanschubert99/GPS-Controlled-Delivery-Car/blob/main/Senior%20Design%20Report%20(Final).pdf]
+[Final Report Download](https://github.com/ryanschubert99/GPS-Controlled-Delivery-Car/blob/main/Senior%20Design%20Report%20(Final).pdf)
 -
 ## 🚗 Project Highlights
 - Ackermann steering system for precise turns
