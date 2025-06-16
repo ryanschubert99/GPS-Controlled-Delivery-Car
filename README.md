@@ -14,6 +14,9 @@ prototype to engineer a fully functional project. The project emphasizes cross-d
 collaboration, real-world problem solving, and the implementation of autonomous systems in
 everyday scenarios.
 
+Project Report: 
+Senior Design Report (Final).pdf
+
 ## 🚗 Project Highlights
 - Ackermann steering system for precise turns
 - ESP32 microcontroller with Bluetooth and Wi-Fi connectivity
