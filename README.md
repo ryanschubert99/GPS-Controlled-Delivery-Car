@@ -1,5 +1,5 @@
 # GPS-Controlled-Delivery-Car
-Abstract
+## Abstract
 The autonomous robotic delivery project focuses on designing and developing a Global
 Positioning System (GPS) guided remote controlled vehicle capable of autonomous food
 delivery on a college campus. This system addresses the need for improved time management
@@ -14,4 +14,24 @@ prototype to engineer a fully functional project. The project emphasizes cross-d
 collaboration, real-world problem solving, and the implementation of autonomous systems in
 everyday scenarios.
 
+## 🚗 Project Highlights
+- Ackermann steering system for precise turns
+- ESP32 microcontroller with Bluetooth and Wi-Fi connectivity
+- HuskyLens AI for real-time obstacle detection
+- Custom Android app for secure delivery and manual override
 
+## 👥 Team
+- Alexander Krupinski (Mechanical Engineering)
+- Owen McGarrity (Mechanical Engineering)
+- Mark Camitan (Electrical Engineering)
+- Benjamin Weisfeld (Electrical Engineering)
+- Ryan Schubert (Computer Engineering)
+- Ryan Zhang (Computer Engineering)
+
+## 🗓️ Timeline
+- **Fall 2024:** Planning, design, prototyping
+- **Spring 2025:** Final prototype, testing, and reporting
+
+## 📌 Advisors
+- Wafi Danesh (Advisor)
+- Kerry Ford (Co-Advisor)
