@@ -16,7 +16,9 @@ everyday scenarios.
 
 Project Report: 
 Senior Design Report (Final).pdf
+## 📄 Report
 
+[Download the full final report (PDF)](./Senior Design Report (Final).pdf)
 ## 🚗 Project Highlights
 - Ackermann steering system for precise turns
 - ESP32 microcontroller with Bluetooth and Wi-Fi connectivity
