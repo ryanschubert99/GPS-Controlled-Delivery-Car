@@ -14,8 +14,6 @@ prototype to engineer a fully functional project. The project emphasizes cross-d
 collaboration, real-world problem solving, and the implementation of autonomous systems in
 everyday scenarios.
 
-Project Report: 
-Senior Design Report (Final).pdf
 ## 📄 Report
 [Final Report Download](https://github.com/ryanschubert99/GPS-Controlled-Delivery-Car/blob/main/Senior%20Design%20Report%20(Final).pdf)
 -
